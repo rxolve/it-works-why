@@ -1,8 +1,0 @@
-<p>23.10.01 스벨테킷 프로젝트 생성</p>
-<p>23.10.02 타이틀 변경</p>
-<p>23.10.03 네비게이션, 로그 페이지 추가</p>
-<p>23.10.06 스네이크 페이지 추가, 캔버스 추가</p>
-<p>23.10.09 스네이크 페이지 제거, 보드게임 페이지 추가, board-game-cqrs 프로젝트 생성</p>
-<p>23.10.11 [board-game-cqrs] test api 추가</p>
-<p>23.10.12 [board-game-cqrs] 공홈 예제 추가</p>
-<p>23.10.13 [Velog] NestJS CQRS 공홈 예제 뜯어보기 작성. intro, commands, queries 완료. events 진행중</p>
