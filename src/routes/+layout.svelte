@@ -1,5 +1,5 @@
 <nav>
 	<a href="/">Home</a>
-	<a href="/board-game">Board Game</a>
+	<a href="/algorithm">Algorithm</a>
 </nav>
 <slot />
