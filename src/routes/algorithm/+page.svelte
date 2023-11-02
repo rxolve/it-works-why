@@ -3,6 +3,7 @@
 	import { countDiv } from '../../solve/count-div';
 	import { numberOfDiscIntersections } from '../../solve/number-of-disc-intersections';
 	import { binarySearchTree } from '../../solve/binary-search-tree';
+	import { binaryInsertionSort } from '../../solve/binary-insertion-sort';
 </script>
 
 <h1>Algorithm</h1>
@@ -10,3 +11,4 @@
 <p>countDiv: {countDiv(11, 345, 17)}</p>
 <p>numberOfDiscIntersections: {numberOfDiscIntersections([1, 1, 1])}</p>
 <p>binarySearchTree: {binarySearchTree([4, 2, 6, 1, 3, 5, 7])}</p>
+<p>binaryInsertionSort: {binaryInsertionSort([4, 2, 6, 1, 3, 5, 7])}</p>
