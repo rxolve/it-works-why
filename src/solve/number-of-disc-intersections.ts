@@ -8,8 +8,6 @@ export const numberOfDiscIntersections = (A: number[]) => {
 		return i + a;
 	});
 
-	console.log(leftPosition, rightPosition);
-
 	let result = 0;
 	for (let i = 0; i < A.length; i++) {
 		for (let j = i + 1; j < A.length; j++) {
