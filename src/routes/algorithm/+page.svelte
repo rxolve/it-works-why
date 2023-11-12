@@ -8,6 +8,7 @@
 	import { isReachableAtTime } from '../../solve/231108-determine-if-a-cell-is-reachable-at-a-given-time';
 	import { countHomogenous } from '../../solve/231109-count-number-of-homogenous-substrings';
 	import { restoreArray } from '../../solve/231110-restore-the-array-from-adjacent-pairs';
+	import { numBusesToDestination } from '../../solve/231112-bus-routes';
 </script>
 
 <h1>Algorithm</h1>
@@ -25,4 +26,14 @@
 		[3, 4],
 		[3, 2]
 	])}
+</p>
+<p>
+	numBusesToDestination: {numBusesToDestination(
+		[
+			[1, 2, 7],
+			[3, 6, 7]
+		],
+		1,
+		6
+	)}
 </p>
