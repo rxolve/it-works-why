@@ -9,6 +9,7 @@
 	import { countHomogenous } from '../../solve/231109-count-number-of-homogenous-substrings';
 	import { restoreArray } from '../../solve/231110-restore-the-array-from-adjacent-pairs';
 	import { numBusesToDestination } from '../../solve/231112-bus-routes';
+	import { sortVowels } from '../../solve/231113-sort-vowels-in-a-string';
 </script>
 
 <h1>Algorithm</h1>
@@ -36,4 +37,7 @@
 		1,
 		6
 	)}
+</p>
+<p>
+	sortVowels: {sortVowels('Codewars')}
 </p>
