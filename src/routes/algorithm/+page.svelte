@@ -10,6 +10,7 @@
 	import { restoreArray } from '../../solve/231110-restore-the-array-from-adjacent-pairs';
 	import { numBusesToDestination } from '../../solve/231112-bus-routes';
 	import { sortVowels } from '../../solve/231113-sort-vowels-in-a-string';
+	import { countPalindromicSubsequence } from '../../solve/231114-unique-length-3-palindromic-subsequences';
 </script>
 
 <h1>Algorithm</h1>
@@ -40,4 +41,7 @@
 </p>
 <p>
 	sortVowels: {sortVowels('Codewars')}
+</p>
+<p>
+	countPalindromicSubsequence: {countPalindromicSubsequence('bbcbaba')}
 </p>
