@@ -11,6 +11,7 @@
 	import { numBusesToDestination } from '../../solve/231112-bus-routes';
 	import { sortVowels } from '../../solve/231113-sort-vowels-in-a-string';
 	import { countPalindromicSubsequence } from '../../solve/231114-unique-length-3-palindromic-subsequences';
+	import { maximumElementAfterDecrementingAndRearranging } from '../../solve/231115-maximum-element-after-decreasing-and-rearranging';
 </script>
 
 <h1>Algorithm</h1>
@@ -44,4 +45,9 @@
 </p>
 <p>
 	countPalindromicSubsequence: {countPalindromicSubsequence('bbcbaba')}
+</p>
+<p>
+	maximumElementAfterDecrementingAndRearranging: {maximumElementAfterDecrementingAndRearranging([
+		4, 4, 4, 1, 10000
+	])}
 </p>
