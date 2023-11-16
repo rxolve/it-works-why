@@ -12,6 +12,7 @@
 	import { sortVowels } from '../../solve/231113-sort-vowels-in-a-string';
 	import { countPalindromicSubsequence } from '../../solve/231114-unique-length-3-palindromic-subsequences';
 	import { maximumElementAfterDecrementingAndRearranging } from '../../solve/231115-maximum-element-after-decreasing-and-rearranging';
+	import { findDifferentBinaryString } from '../../solve/231116-find-unique-binary-string';
 </script>
 
 <h1>Algorithm</h1>
@@ -50,4 +51,7 @@
 	maximumElementAfterDecrementingAndRearranging: {maximumElementAfterDecrementingAndRearranging([
 		4, 4, 4, 1, 10000
 	])}
+</p>
+<p>
+	findDifferentBinaryString: {findDifferentBinaryString(['111', '011', '001'])}
 </p>
