@@ -13,6 +13,7 @@
 	import { countPalindromicSubsequence } from '../../solve/231114-unique-length-3-palindromic-subsequences';
 	import { maximumElementAfterDecrementingAndRearranging } from '../../solve/231115-maximum-element-after-decreasing-and-rearranging';
 	import { findDifferentBinaryString } from '../../solve/231116-find-unique-binary-string';
+	import { minPairSum } from '../../solve/231117-minimize-maximum-pair-sum-in-array';
 </script>
 
 <h1>Algorithm</h1>
@@ -54,4 +55,7 @@
 </p>
 <p>
 	findDifferentBinaryString: {findDifferentBinaryString(['111', '011', '001'])}
+</p>
+<p>
+	minPairSum: {minPairSum([3, 5, 2, 3])}
 </p>
