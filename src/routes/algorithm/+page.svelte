@@ -14,6 +14,7 @@
 	import { maximumElementAfterDecrementingAndRearranging } from '../../solve/231115-maximum-element-after-decreasing-and-rearranging';
 	import { findDifferentBinaryString } from '../../solve/231116-find-unique-binary-string';
 	import { minPairSum } from '../../solve/231117-minimize-maximum-pair-sum-in-array';
+	import { maxFrequency } from '../../solve/231118-frequency-of-the-most-frequent-element';
 </script>
 
 <h1>Algorithm</h1>
@@ -58,4 +59,7 @@
 </p>
 <p>
 	minPairSum: {minPairSum([3, 5, 2, 3])}
+</p>
+<p>
+	maxFrequency: {maxFrequency([1, 2, 4], 5)}
 </p>
