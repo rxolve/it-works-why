@@ -16,6 +16,7 @@
 	import { minPairSum } from '../../solve/231117-minimize-maximum-pair-sum-in-array';
 	import { maxFrequency } from '../../solve/231118-frequency-of-the-most-frequent-element';
 	import { reductionOperations } from '../../solve/231119-reduction-operations-to-make-the-array-elements-equal';
+	import { garbageCollection } from '../../solve/231120-minimum-amount-of-time-to-collect-garbage';
 </script>
 
 <h1>Algorithm</h1>
@@ -66,4 +67,7 @@
 </p>
 <p>
 	reductionOperations: {reductionOperations([5, 1, 3])}
+</p>
+<p>
+	garbageCollection: {garbageCollection(['G', 'M'], [1])}
 </p>
