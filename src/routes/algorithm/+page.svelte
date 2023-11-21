@@ -17,6 +17,7 @@
 	import { maxFrequency } from '../../solve/231118-frequency-of-the-most-frequent-element';
 	import { reductionOperations } from '../../solve/231119-reduction-operations-to-make-the-array-elements-equal';
 	import { garbageCollection } from '../../solve/231120-minimum-amount-of-time-to-collect-garbage';
+	import { countNicePairs } from '../../solve/231121-count-nice-pairs-in-an-array';
 </script>
 
 <h1>Algorithm</h1>
@@ -70,4 +71,7 @@
 </p>
 <p>
 	garbageCollection: {garbageCollection(['G', 'M'], [1])}
+</p>
+<p>
+	countNicePairs: {countNicePairs([13, 10, 35, 24, 76])}
 </p>
