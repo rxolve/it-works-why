@@ -18,6 +18,7 @@
 	import { reductionOperations } from '../../solve/231119-reduction-operations-to-make-the-array-elements-equal';
 	import { garbageCollection } from '../../solve/231120-minimum-amount-of-time-to-collect-garbage';
 	import { countNicePairs } from '../../solve/231121-count-nice-pairs-in-an-array';
+	import { findDiagonalOrder } from '../../solve/231122-diagonal-traverse-ii';
 </script>
 
 <h1>Algorithm</h1>
@@ -74,4 +75,11 @@
 </p>
 <p>
 	countNicePairs: {countNicePairs([13, 10, 35, 24, 76])}
+</p>
+<p>
+	findDiagonalOrder: {findDiagonalOrder([
+		[1, 2, 3],
+		[4, 5, 6],
+		[7, 8, 9]
+	])}
 </p>
