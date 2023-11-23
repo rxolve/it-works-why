@@ -19,6 +19,7 @@
 	import { garbageCollection } from '../../solve/231120-minimum-amount-of-time-to-collect-garbage';
 	import { countNicePairs } from '../../solve/231121-count-nice-pairs-in-an-array';
 	import { findDiagonalOrder } from '../../solve/231122-diagonal-traverse-ii';
+	import { checkArithmeticSubarrays } from '../../solve/231123-arithmetic-subarrays';
 </script>
 
 <h1>Algorithm</h1>
@@ -82,4 +83,7 @@
 		[4, 5, 6],
 		[7, 8, 9]
 	])}
+</p>
+<p>
+	checkArithmeticSubarrays: {checkArithmeticSubarrays([4, 6, 5, 9, 3, 7], [0, 0, 2], [2, 3, 5])}
 </p>
