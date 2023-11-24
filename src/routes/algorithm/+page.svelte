@@ -87,3 +87,6 @@
 <p>
 	checkArithmeticSubarrays: {checkArithmeticSubarrays([4, 6, 5, 9, 3, 7], [0, 0, 2], [2, 3, 5])}
 </p>
+<p>
+	maxCoins: {maxCoins([2, 4, 1, 2, 7, 8])}
+</p>
