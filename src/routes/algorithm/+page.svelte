@@ -20,6 +20,8 @@
 	import { countNicePairs } from '../../solve/231121-count-nice-pairs-in-an-array';
 	import { findDiagonalOrder } from '../../solve/231122-diagonal-traverse-ii';
 	import { checkArithmeticSubarrays } from '../../solve/231123-arithmetic-subarrays';
+	import { maxCoins } from '../../solve/231124-maximum-number-of-coins-you-can-get';
+	import { getSumAbsoluteDifferences } from '../../solve/231125-sum-of-absolute-differences-in-a-sorted-array';
 </script>
 
 <h1>Algorithm</h1>
@@ -89,4 +91,7 @@
 </p>
 <p>
 	maxCoins: {maxCoins([2, 4, 1, 2, 7, 8])}
+</p>
+<p>
+	getSumAbsoluteDifferences: {getSumAbsoluteDifferences([2, 3, 5])}
 </p>
