@@ -22,6 +22,7 @@
 	import { checkArithmeticSubarrays } from '../../solve/231123-arithmetic-subarrays';
 	import { maxCoins } from '../../solve/231124-maximum-number-of-coins-you-can-get';
 	import { getSumAbsoluteDifferences } from '../../solve/231125-sum-of-absolute-differences-in-a-sorted-array';
+	import { largestSubmatrix } from '../../solve/231126-largest-submatrix-with-rearrangements';
 </script>
 
 <h1>Algorithm</h1>
@@ -94,4 +95,11 @@
 </p>
 <p>
 	getSumAbsoluteDifferences: {getSumAbsoluteDifferences([2, 3, 5])}
+</p>
+<p>
+	largestSubmatrix: {largestSubmatrix([
+		[0, 0, 1],
+		[1, 1, 1],
+		[1, 0, 1]
+	])}
 </p>
