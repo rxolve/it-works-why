@@ -23,6 +23,7 @@
 	import { maxCoins } from '../../solve/231124-maximum-number-of-coins-you-can-get';
 	import { getSumAbsoluteDifferences } from '../../solve/231125-sum-of-absolute-differences-in-a-sorted-array';
 	import { largestSubmatrix } from '../../solve/231126-largest-submatrix-with-rearrangements';
+	import { knightDialer } from '../../solve/231127-knight-dialer';
 </script>
 
 <h1>Algorithm</h1>
@@ -102,4 +103,7 @@
 		[1, 1, 1],
 		[1, 0, 1]
 	])}
+</p>
+<p>
+	knightDialer: {knightDialer(3)}
 </p>
