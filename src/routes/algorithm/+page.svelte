@@ -24,6 +24,7 @@
 	import { getSumAbsoluteDifferences } from '../../solve/231125-sum-of-absolute-differences-in-a-sorted-array';
 	import { largestSubmatrix } from '../../solve/231126-largest-submatrix-with-rearrangements';
 	import { knightDialer } from '../../solve/231127-knight-dialer';
+	import { numberOfWays } from '../../solve/231128-number-of-ways-to-divide-a-long-corridor';
 </script>
 
 <h1>Algorithm</h1>
@@ -106,4 +107,7 @@
 </p>
 <p>
 	knightDialer: {knightDialer(3)}
+</p>
+<p>
+	numberOfWays: {numberOfWays('SSPPSPS')}
 </p>
