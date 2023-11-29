@@ -25,6 +25,7 @@
 	import { largestSubmatrix } from '../../solve/231126-largest-submatrix-with-rearrangements';
 	import { knightDialer } from '../../solve/231127-knight-dialer';
 	import { numberOfWays } from '../../solve/231128-number-of-ways-to-divide-a-long-corridor';
+	import { hammingWeight } from '../../solve/231129-number-of-1-bits';
 </script>
 
 <h1>Algorithm</h1>
@@ -110,4 +111,7 @@
 </p>
 <p>
 	numberOfWays: {numberOfWays('SSPPSPS')}
+</p>
+<p>
+	hammingWeight: {hammingWeight(1011)}
 </p>
