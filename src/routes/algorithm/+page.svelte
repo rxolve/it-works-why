@@ -26,6 +26,7 @@
 	import { knightDialer } from '../../solve/231127-knight-dialer';
 	import { numberOfWays } from '../../solve/231128-number-of-ways-to-divide-a-long-corridor';
 	import { hammingWeight } from '../../solve/231129-number-of-1-bits';
+	import { minimumOneBitOperations } from '../../solve/231130-minimum-one-bit-operations-to-make-integers-zero';
 </script>
 
 <h1>Algorithm</h1>
@@ -114,4 +115,7 @@
 </p>
 <p>
 	hammingWeight: {hammingWeight(1011)}
+</p>
+<p>
+	minimumOneBitOperations: {minimumOneBitOperations(9)}
 </p>
