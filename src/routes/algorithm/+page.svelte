@@ -27,6 +27,7 @@
 	import { numberOfWays } from '../../solve/231128-number-of-ways-to-divide-a-long-corridor';
 	import { hammingWeight } from '../../solve/231129-number-of-1-bits';
 	import { minimumOneBitOperations } from '../../solve/231130-minimum-one-bit-operations-to-make-integers-zero';
+	import { arrayStringsAreEqual } from '../../solve/231201-check-if-two-string-arrays-are-equivalent';
 </script>
 
 <h1>Algorithm</h1>
@@ -118,4 +119,7 @@
 </p>
 <p>
 	minimumOneBitOperations: {minimumOneBitOperations(9)}
+</p>
+<p>
+	arrayStringsAreEqual: {arrayStringsAreEqual(['ab', 'c'], ['a', 'bc'])}
 </p>
