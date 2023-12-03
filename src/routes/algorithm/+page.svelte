@@ -29,6 +29,7 @@
 	import { minimumOneBitOperations } from '../../solve/231130-minimum-one-bit-operations-to-make-integers-zero';
 	import { arrayStringsAreEqual } from '../../solve/231201-check-if-two-string-arrays-are-equivalent';
 	import { countCharacters } from '../../solve/231202-find-words-that-can-be-formed-by-characters';
+	import { minTimeToVisitAllPoints } from '../../solve/231203-minimum-time-visiting-all-points';
 </script>
 
 <h1>Algorithm</h1>
@@ -126,4 +127,11 @@
 </p>
 <p>
 	countCharacters: {countCharacters(['cat', 'bt', 'hat', 'tree'], 'atach')}
+</p>
+<p>
+	minTimeToVisitAllPoints: {minTimeToVisitAllPoints([
+		[1, 1],
+		[3, 4],
+		[-1, 0]
+	])}
 </p>
