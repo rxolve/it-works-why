@@ -30,6 +30,7 @@
 	import { arrayStringsAreEqual } from '../../solve/231201-check-if-two-string-arrays-are-equivalent';
 	import { countCharacters } from '../../solve/231202-find-words-that-can-be-formed-by-characters';
 	import { minTimeToVisitAllPoints } from '../../solve/231203-minimum-time-visiting-all-points';
+	import { largestGoodInteger } from '../../solve/231204-largest-3-same-digit-number-in-string';
 </script>
 
 <h1>Algorithm</h1>
@@ -134,4 +135,7 @@
 		[3, 4],
 		[-1, 0]
 	])}
+</p>
+<p>
+	largestGoodInteger: {largestGoodInteger('1234567890')}
 </p>
