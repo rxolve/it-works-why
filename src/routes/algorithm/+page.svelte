@@ -32,6 +32,7 @@
 	import { minTimeToVisitAllPoints } from '../../solve/231203-minimum-time-visiting-all-points';
 	import { largestGoodInteger } from '../../solve/231204-largest-3-same-digit-number-in-string';
 	import { numberOfMatches } from '../../solve/231205-count-of-matches-in-tournament';
+	import { totalMoney } from '../../solve/231206-calculate-money-in-leetcode-bank';
 </script>
 
 <h1>Algorithm</h1>
@@ -142,4 +143,7 @@
 </p>
 <p>
 	numberOfMatches: {numberOfMatches(7)}
+</p>
+<p>
+	totalMoney: {totalMoney(4)}
 </p>
