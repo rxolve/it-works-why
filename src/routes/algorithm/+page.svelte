@@ -33,6 +33,7 @@
 	import { largestGoodInteger } from '../../solve/231204-largest-3-same-digit-number-in-string';
 	import { numberOfMatches } from '../../solve/231205-count-of-matches-in-tournament';
 	import { totalMoney } from '../../solve/231206-calculate-money-in-leetcode-bank';
+	import { largestOddNumber } from '../../solve/231207-largest-odd-number-in-string';
 </script>
 
 <h1>Algorithm</h1>
@@ -146,4 +147,7 @@
 </p>
 <p>
 	totalMoney: {totalMoney(4)}
+</p>
+<p>
+	largestOddNumber: {largestOddNumber('35427')}
 </p>
