@@ -62,9 +62,3 @@ export default function Chat() {
     </div>
   );
 }
-
-export async function getServerSideProps() {
-  return {
-    props: {},
-  };
-}
