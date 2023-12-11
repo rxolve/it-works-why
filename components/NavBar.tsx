@@ -1,15 +1,22 @@
+"use client";
+
 import Link from "next/link";
-import style from "./NavBar.module.css";
 
 export default function NavBar() {
   return (
     <nav>
-      <Link href="/" className={style.nav}>
-        Home
-      </Link>
-      <Link href="/about" className={style.nav}>
-        About
-      </Link>
+      <Link href="/">Home</Link>
+      <Link href="/about">About</Link>
+      <style jsx>{`
+        nav {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          height: 60px;
+          background-color: tomato;
+          color: #fff;
+        }
+      `}</style>
     </nav>
   );
 }
